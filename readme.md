@@ -14,8 +14,8 @@ Type|Item
 **CPU Cooler** | [InWin SR36 AIO Liquid Cooler (IW-LC-SR36)](https://www.in-win.com/en/cooling/sr36)
 **Motherboard** | Msi - MPG Z390 GAMING PRO CARBON ATX LGA1151 Motherboard
 **Memory** | TEAMGROUP T-FORCE DELTA RGB DDR4-3200 Memory 32 GB (8G*4)
-**Storage SATA III (for MacOS)** | Samsung 860 EVO 500 GB SATA 2.5 Inch Internal Solid State Drive (SSD) (MZ-76E500)
-**Storage NVMe (for Win10)** | XPG S11 Pro 512GB M.2-2280 NVME Solid State Drive
+**Storage SATA III (for MacOS)** | Samsung 970 EVO 500 GB NVMe M.2 2280 PCIe Internal Solid State Drive (MZ-V7E500BW)
+**Storage NVMe (for Win10)** | XPG S11 Pro 512GB M.2-2280 NVMe M.2 2280 PCIe Internal Solid State Drive
 **Storage SATA III** | WD WD20EZAZ Blue 2TB 5400RPM Class SATAIII 256MB 3.5" Desktop Hard Drive
 **Graphic Card** | MSI - Radeon RX 580 ARMOR 8G OC '8GB GDDR5, 1366Hz'
 **Case** | ASUS TUF Gaming GT301 Case
